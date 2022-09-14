@@ -1,10 +1,13 @@
-package studenten_en_opos;
+package studenten_en_opos.tests;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.util.Set;
 
 import org.junit.jupiter.api.Test;
+
+import studenten_en_opos.OPO;
+import studenten_en_opos.Student;
 
 class StudentenEnOPOsTest {
 
